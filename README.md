@@ -4,14 +4,14 @@ Andrea Sofía Vargas Ballesteros <br>
 Javier Andrés Núñez Sánchez <br>
 
 ##  INSTRUCCIONES PARA VISUALIZAR:
-### - Carpeta Juego COMPRIMIDO: 
-Descomprimir el archivo "Typing Leaf.zip" e importar la carpeta resultante en Unity, ya que esta carpeta es el proyecto
 ### - Carpeta DOCUMENTACIÓN:
 Se encuentra la explicación de los avances de cada versión del juego en desarrollo en archivos Word
-### - Carpeta VIDEOS DEMOSTRATIVOS:
-Actualizaciones multimediales de los avances del juego en archivos MP4
+### - Carpeta Juego COMPRIMIDO: 
+Descomprimir el archivo "Typing Leaf.zip" e importar la carpeta resultante en Unity, ya que esta carpeta es el proyecto
 ### - Carpeta SCRIPTS:
 Abrir la carpeta "SCRIPTS" y visualizar el archivo .txt con un link de Drive en donde se subirán todos los scripts utilizados en el juego 
+### - Carpeta VIDEOS DEMOSTRATIVOS:
+Actualizaciones multimediales de los avances del juego en archivos MP4
 
 
 ## DESCRIPCIÓN DEL JUEGO:
