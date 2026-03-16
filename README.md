@@ -5,7 +5,7 @@ Javier Andrés Núñez Sánchez <br>
 
 ##  INSTRUCCIONES PARA VISUALIZAR:
 ### - Carpeta Juego COMPRIMIDO: 
-Abrir la carpeta Juego "COMPRIMIDO" y seleccionar la carpeta "Typing Leaf" para abrir el proyecto en Unity
+Descomprimir el archivo "Typing Leaf.zip" e importar la carpeta resultante en Unity, ya que esta carpeta es el proyecto
 ### - Carpeta DOCUMENTACIÓN:
 Se encuentra la explicación de los avances de cada versión del juego en desarrollo en archivos Word
 ### - Carpeta VIDEOS DEMOSTRATIVOS:
